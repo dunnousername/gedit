@@ -112,3 +112,8 @@ mailing list. See also the file 'HACKING' for more detailed information.
 
 
   The gedit team.
+
+=== THIS IS A FORK ===
+
+I am attempting to automatically create a backup in a configurable location (hopefully).
+This will happen EVERY TIME you save the file while the feature is enabled.
